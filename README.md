@@ -1,2 +1,2 @@
 # Data-Science_Public-Project
-My Public Data Science Project Documentation
+Collection of my Public Data Science project portfolio using Public Dataset
